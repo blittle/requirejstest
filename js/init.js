@@ -8,6 +8,6 @@ require([
     "noDefine1"
 ],
 
-function($) {
+function() {
     console.log(6);
 });
